@@ -1,0 +1,12 @@
+{
+    "auto_complete_task": true,
+    "auto_play_game": true,
+    "auto_spin": true,
+    "chigh": 3,
+    "clow": 2,
+    "game_point": {
+        "high": 250,
+        "low": 230
+    },
+    "interval": 3
+}
