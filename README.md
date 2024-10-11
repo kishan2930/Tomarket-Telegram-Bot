@@ -32,7 +32,6 @@ All Risks are borne by the user!
 - [x] Proxy Support
 - [x] Multi Account Support
 
-
 # Register
 
 Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=r-0000YnEE
@@ -61,32 +60,35 @@ socks5://127.0.0.1:6969
 socks5://user:pass@127.0.0.1:6969
 ```
 
-## Windows 
+## Windows
 
 1. Make sure you computer was installed python and git.
-   
+
    python site : [https://python.org](https://python.org)
-   
+
    git site : [https://git-scm.com/](https://git-scm.com/)
 
 2. Clone this repository
+
    ```shell
    git clone https://github.com/akasakaid/tomarketod.git
    ```
 
 3. goto tomarketod directory
+
    ```
    cd tomarketod
    ```
 
 4. install the require library
+
    ```
    python -m pip install -r requirements.txt
    ```
 
 5. Edit `data.txt`, input you data token in `data.txt`, find you token in [How to Get Data](#how-to-get-data). One line for one data account, if you want add you second account add in new line!
 
-6. execute the main program 
+6. execute the main program
    ```
    python bot.py
    ```
@@ -94,18 +96,21 @@ socks5://user:pass@127.0.0.1:6969
 ## Linux
 
 1. Make sure you computer was installed python and git.
-   
+
    python
+
    ```shell
    sudo apt install python3 python3-pip
    ```
+
    git
+
    ```shell
    sudo apt install git
    ```
 
 2. Clone this repository
-   
+
    ```shell
    git clone https://github.com/akasakaid/tomarketod.git
    ```
@@ -117,14 +122,14 @@ socks5://user:pass@127.0.0.1:6969
    ```
 
 4. Install the require library
-   
+
    ```
    python3 -m pip install -r requirements.txt
    ```
 
 5. Edit `data.txt`, input you data token in `data.txt`, find you token in [How to Get Data](#how-to-get-data). One line for one data account, if you want add you second account add in new line!
 
-6. execute the main program 
+6. execute the main program
    ```
    python bot.py
    ```
@@ -132,37 +137,42 @@ socks5://user:pass@127.0.0.1:6969
 ## Termux
 
 1. Make sure you termux was installed python and git.
-   
+
    python
+
    ```
    pkg install python
    ```
 
    git
+
    ```
    pkg install git
    ```
 
 2. Clone this repository
+
    ```shell
    git clone https://github.com/akasakaid/tomarketod.git
    ```
 
 3. goto tomarketod directory
+
    ```
    cd tomarketod
    ```
 
 4. install the require library
+
    ```
    python -m pip install -r requirements.txt
    ```
 
 5. Edit `data.txt`, input you data token in `data.txt`, find you token in [How to Get Data](#how-to-get-data). One line for one data account, if you want add you second account add in new line!
 
-You can edit the data.txt with `nano` / `vim` / `Visual Studio Code` 
+You can edit the data.txt with `nano` / `vim` / `Visual Studio Code`
 
-6. execute the main program 
+6. execute the main program
    ```
    python bot.py
    ```
@@ -176,15 +186,20 @@ Watch the following video to get data [https://youtu.be/fdbdt-fEoVg](https://you
 Javascript code for getting query (user= / query=)
 
 ```javascript
-copy(decodeURIComponent(sessionStorage.SourceTarget).split('#tgWebAppData=')[1].split('&tgWebAppVersion=')[0]);console.log('data copied !\npaste ctrl + v')
+copy(
+  decodeURIComponent(sessionStorage.SourceTarget)
+    .split("#tgWebAppData=")[1]
+    .split("&tgWebAppVersion=")[0]
+);
+console.log("data copied !\npaste ctrl + v");
 ```
 
-# Run for 24/7 
+# Run for 24/7
 
 You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
 
 # Discussion
 
-If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/KISHAN2930)
+If you have an question or something you can ask in here : [@KISHAN2930](https://t.me/KISHAN2930)
 
 # Thank you < 3
