@@ -52,8 +52,6 @@ class Config:
                 "low": 220,
                 "high": 250
             },
-            "low": 230,
-            "high": 250,
             "clow": 2,
             "chigh": 3
         }
