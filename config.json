@@ -5,8 +5,8 @@
     "chigh": 3,
     "clow": 2,
     "game_point": {
-        "high": 250,
-        "low": 230
+        "high": 610,
+        "low": 550
     },
     "interval": 3
 }

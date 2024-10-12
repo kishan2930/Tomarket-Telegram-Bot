@@ -1,14 +1,10 @@
-# Tomarket Telegram Airdrop
-
-Auto Claim for tomarket Telegram Bot
-
 # Table of Contents
 
 - [Tomarketod](#tomarket-telegram-airdrop)
+- [Register](#register)
 - [Table of Contents](#table-of-contents)
 - [Warning](#warning)
 - [Features](#features)
-- [Register](#register)
 - [How to Use](#how-to-use)
   - [About Proxy](#about-proxy)
   - [Windows](#windows)
@@ -18,6 +14,14 @@ Auto Claim for tomarket Telegram Bot
 - [Run for 24/7](#run-for-247)
 - [Discussion](#discussion)
 - [Thank you \< 3](#thank-you--3)
+
+# Tomarket Telegram Airdrop
+
+Auto Claim for tomarket Telegram Bot
+
+# Register
+
+Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=r-0000YnEE
 
 # Warning
 
@@ -31,10 +35,6 @@ All Risks are borne by the user!
 - [x] Auto Play Game
 - [x] Proxy Support
 - [x] Multi Account Support
-
-# Register
-
-Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=r-0000YnEE
 
 # How to Use
 

@@ -49,8 +49,8 @@ class Config:
             "auto_play_game": True,
             "auto_spin": True,
             "game_point": {
-                "low": 220,
-                "high": 250
+                "low": 550,
+                "high": 610
             },
             "clow": 2,
             "chigh": 3
